@@ -1,0 +1,11 @@
+nav-link:focus {
+  color: white;
+}
+
+.task-color-1 {
+  background-color: #44001a;
+}
+
+.nav-link {
+  color: gray;
+}

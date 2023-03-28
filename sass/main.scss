@@ -1,0 +1,12 @@
+$danger: #44001a;
+$danger-emphasis: #b15b5b;
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lato&family=Roboto:wght@400;900&display=swap');
+:root {
+  --bs-body-font-family: 'Roboto';
+  --bs-body-font-size: 18px
+}
+#title {
+  
+  font-family: 'Architects Daughter';
+} 
